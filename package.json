@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "test": "app.js"
+    "start": "server.js"
   },
   "author": "Dale Holstein",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
